@@ -10,7 +10,6 @@
     "web": "expo start --web",
     "test": "jest --watchAll",
     "lint": "expo lint",
-    "vercel-build": "expo export"
   },
   "jest": {
     "preset": "jest-expo"
